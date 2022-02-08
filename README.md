@@ -1,11 +1,17 @@
+![Marc Lawson](https://user-images.githubusercontent.com/78750607/153007898-e1eda780-04e2-4165-bb93-05cf5277bf23.gif)
 
 Veteran of six years in the United States Air Force aiming to continue practice in software programming. I enjoy the team chemistry and creativity required with programming. Something I take pride in, is my ability to be flexible in learning new things and remain optimistic towards possibilities. A final note, I have an extremely ambitious and teachable attitude towards completing all required projects (either self or work-related).
+
+
+
+
 
 <a href="https://www.linkedin.com/in/marclawson123/" rel="nofollow">
  <img src="https://camo.githubusercontent.com/fe2fd9d9364b65e1bdbc6bc306f5b833754944ec7b15c8cbc4f0ea6624121b04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d50726f66696c652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d303037454336" data-canonical-src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6" />
 </a>
 
 <br />
+<hr />
 
 Front End
 <br />
