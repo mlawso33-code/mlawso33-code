@@ -6,7 +6,7 @@ Veteran of six years in the United States Air Force aiming to continue practice 
 
 
 
-<a href="https://www.linkedin.com/in/marclawson123/" rel="nofollow">
+<a href="https://www.linkedin.com/in/marclawson123/" rel="nofollow" target="_blank">
  <img src="https://camo.githubusercontent.com/fe2fd9d9364b65e1bdbc6bc306f5b833754944ec7b15c8cbc4f0ea6624121b04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d50726f66696c652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d303037454336" data-canonical-src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6" />
 </a>
 
