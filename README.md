@@ -1,6 +1,6 @@
 ![Marc Lawson](https://user-images.githubusercontent.com/78750607/153007898-e1eda780-04e2-4165-bb93-05cf5277bf23.gif)
 
-Veteran of six years in the United States Air Force aiming to continue practice in software programming. I enjoy the team chemistry and creativity required with programming. Something I take pride in, is my ability to be flexible in learning new things and remain optimistic towards possibilities. A final note, I have an extremely ambitious and teachable attitude towards completing all required projects (either self or work-related).
+United States Air Force veteran of six years who enjoys creativity and team chemistry to allow optimistic application builds. I take pride in my ability to be flexible in learning new things and remain observant towards possibilities. A final note, I have an extremely ambitious and teachable attitude towards completing all required projects, either personal or work-related.
 
 
 
